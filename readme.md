@@ -3,7 +3,7 @@
 
 **Get the turn.js 4th release on [turnjs.com](http://www.turnjs.com/)**
 
-
+### Documentation is [http://www.turnjs.com/docs/index.php/Main_Page](here)
 ### What's new in turn.js 4th release?
 
 - Added option `autoCenter`
